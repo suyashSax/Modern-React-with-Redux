@@ -1,5 +1,3 @@
-# Modern React with Redux
-
 ### Incremental [course](https://www.udemy.com/react-redux) projects exploring react and redux fundamentals:
 
 - YouTube Instant: Intro to class and function based components, state and ES6, JSX syntax in React.
